@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/black-friday-text-background-vector-pattern-special-offers-repeating-red-over-white-121291947.jpg") !important;
+}
+
+.myNav,.adsSection,nav.page-pagination,.searchBox-verb h1,.searchBox-verb form,.langChange,footer{
+    display: none !important;
+}
+.searchBox-verb{
+    width:100vw;
+}
+.results-table{
+    width:100%;
+}
+.copywrightP{
+    display:block;
+}
