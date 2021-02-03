@@ -1,0 +1,2 @@
+# talkguide
+Norwegian translation site 
